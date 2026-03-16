@@ -37,21 +37,7 @@ I also used Global Moran’s I and Local Moran’s I (LISA) to examine whether h
 - The picture of “crime hotspots” depends on what is measured. Different crime types can produce different hotspot maps.
 - Hotspots often appear in clusters rather than isolated single areas, supported by positive spatial autocorrelation (Global Moran’s I = 0.514, p = 0.001).
 
-## Outputs
-This repository contains:
-- hotspot maps
-- distribution charts
-- scatterplots
-- spatial clustering diagnostics
-- a short written analytical brief
 
-## Why this project matters
-This project shows that hotspot stability is not a simple yes-or-no question. The answer depends on both the time window and the crime indicator used. This matters for how crime data is interpreted and communicated, especially when results are presented to broader audiences or used to support place-based decision-making.
-
-## Files in this repository
-- `25109433.pdf` – project brief / final write-up
-- `figures/` – maps, charts, and visual outputs
-- `notebooks/` or `scripts/` – analysis workflow (if included)
 
 ## Author
 Hanyun Hu
